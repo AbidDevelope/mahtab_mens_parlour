@@ -13,6 +13,7 @@
                                     <p>Near Adarsh Inter College Mailahan Phulpur Allahabad, 212402 (Up)</p>
                             </div>
                         </div>
+                        
                         <div class="single_find d-flex">
                             <div class="icon">
                                 <i class="flaticon-phone-call"></i>
